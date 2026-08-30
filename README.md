@@ -12,10 +12,10 @@ A Streamlit web app that predicts whether an Amazon product review is positive o
 ## Screenshots
 
 **Positive Review**
-![Positive review prediction](screenshots/positive_review.png)
+![Positive review prediction](screenshots/sent_pos.png)
 
 **Negative Review**
-![Negative review prediction](screenshots/negative_review.png)
+![Negative review prediction](screenshots/sentiment_neg.png)
 
 ## Tech Stack
 - Python, scikit-learn (TF-IDF, Logistic Regression)
